@@ -4,10 +4,10 @@
   <!ENTITY rdf     "http://www.w3.org/1999/02/22-rdf-syntax-ns">
   <!ENTITY rdfs    "http://www.w3.org/2000/01/rdf-schema">
   <!ENTITY owl     "http://www.w3.org/2002/07/owl">
-  <!ENTITY profile "http://daml.org/services/owl-s/1.2/Profile.owl">
-  <!ENTITY actor   "http://daml.org/services/owl-s/1.2/ActorDefault.owl">
-  <!ENTITY ypc     "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
-  <!ENTITY DEFAULT "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS-Profile.owl">
+  <!ENTITY profile "http://www.daml.org/services/owl-s/1.2/Profile.owl">
+  <!ENTITY actor   "http://www.daml.org/services/owl-s/1.2/ActorDefault.owl">
+  <!ENTITY ypc     "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
+  <!ENTITY DEFAULT "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS-Profile.owl">
 ]>
 
 <rdf:RDF

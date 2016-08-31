@@ -5,9 +5,9 @@
   <!ENTITY rdfs    "http://www.w3.org/2000/01/rdf-schema">
   <!ENTITY owl     "http://www.w3.org/2002/07/owl">
   <!ENTITY xsd     "http://www.w3.org/2001/XMLSchema">
-  <!ENTITY process "http://daml.org/services/owl-s/1.2/Process.owl">
-  <!ENTITY DEFAULT "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
-  <!ENTITY THIS    "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
+  <!ENTITY process "http://www.daml.org/services/owl-s/1.2/Process.owl">
+  <!ENTITY DEFAULT "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
+  <!ENTITY THIS    "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
 ]>
 
 <rdf:RDF
