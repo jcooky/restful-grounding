@@ -5,11 +5,11 @@
   <!ENTITY rdfs      "http://www.w3.org/2000/01/rdf-schema">
   <!ENTITY xsd       "http://www.w3.org/2001/XMLSchema">
   <!ENTITY owl       "http://www.w3.org/2002/07/owl">
-  <!ENTITY grounding "http://daml.org/services/owl-s/1.2/Grounding.owl"> 
-  <!ENTITY restful   "http://fullsemanticweb.com/ontology/RESTfulGrounding/v1.0/RESTfulGrounding.owl"> 
-  <!ENTITY wadl      "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS.wadl">
-  <!ENTITY ypc       "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
-  <!ENTITY DEFAULT   "http://fullsemanticweb.com/ontology/YNS/v1.0/YNS-Grounding.owl">
+  <!ENTITY grounding "http://www.daml.org/services/owl-s/1.2/Grounding.owl"> 
+  <!ENTITY restful   "http://www.fullsemanticweb.com/ontology/RESTfulGrounding/v1.0/RESTfulGrounding.owl"> 
+  <!ENTITY wadl      "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS.wadl">
+  <!ENTITY ypc       "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS-Process.owl">
+  <!ENTITY DEFAULT   "http://www.fullsemanticweb.com/ontology/YNS/v1.0/YNS-Grounding.owl">
 ]>
 
 <rdf:RDF
